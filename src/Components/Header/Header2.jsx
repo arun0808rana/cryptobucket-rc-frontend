@@ -7,7 +7,7 @@ function Header2() {
     <>
       <Navbar collapseOnSelect expand="lg" bg="light" variant="light" className="navbar-crypto">
         <Container>
-          <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+          <Navbar.Brand href="#home">CRYPTO BUCKET</Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
